@@ -1,0 +1,1 @@
+This is a made up license for playing around with git desktop ;)
